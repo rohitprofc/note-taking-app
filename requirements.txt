@@ -1,0 +1,11 @@
+backend:
+express
+body-parser
+cors
+mongoose
+dotenv
+
+frontend:
+react
+react-dom
+axios
